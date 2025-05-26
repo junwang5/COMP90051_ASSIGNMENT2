@@ -9,9 +9,12 @@ How to run the DANN model:
 
 3. Ensure required packages (e.g., torch, sklearn, matplotlib) are installed.
 
+
 How to generate all the report graph:
 
 1. Open the report_graph.ipynb under the Graphs folder.
    
 3. Run all the cells to generate all the report graph.
    
+
+github: https://github.com/junwang5/COMP90051_ASSIGNMENT2
