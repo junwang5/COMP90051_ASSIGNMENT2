@@ -9,3 +9,6 @@ How to run:
 2. Run all cells sequentially.
 
 3. Ensure required packages (e.g., torch, sklearn, matplotlib) are installed.
+
+
+github: https://github.com/junwang5/COMP90051_ASSIGNMENT2
