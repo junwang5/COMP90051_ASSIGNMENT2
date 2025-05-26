@@ -12,6 +12,6 @@ How to run the DANN model:
 How to generate all the report graph:
 
 1. Open the report_graph.ipynb under the Graphs folder.
-2. 
+   
 3. Run all the cells to generate all the report graph.
    
